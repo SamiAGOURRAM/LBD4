@@ -1,0 +1,17 @@
+table, td, tr{
+    border: 1px solid black;
+
+}
+td{
+    padding: 10px;
+}
+td.red{
+    background-color: red;
+}
+td.orange{
+    background-color: orange;
+
+}
+td.yellow{
+    background-color: yellow;
+}
